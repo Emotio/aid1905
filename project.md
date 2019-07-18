@@ -36,7 +36,7 @@
 > sudo apt-get install git
 
 ## GIT使用
-
+66666666666
 ![git结构](img/git.jpeg)
 
 ### 基本概念
